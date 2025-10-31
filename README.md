@@ -2,7 +2,6 @@
 <img src="https://komarev.com/ghpvc/?username=minecalladam&label=Views" alt="ADAM" />
 
 - 🔭 I’m currently working full-time as a Backend Developer (Ruby on Rails).
-- ⚡ Fun fact: If you think about eating, you’ll get hungry - if you think about learning, you’ll find your way forward.
 
 ## Skills
 <p>
